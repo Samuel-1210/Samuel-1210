@@ -1,7 +1,7 @@
 ### Eai, me chamo Samuel!
 
 
-- 🌱 Atualmente estudando Node.js e Typescript
+- 🌱 Atualmente estudando Node.js 
 
 ##
 
