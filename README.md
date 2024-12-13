@@ -15,7 +15,8 @@ Apaixonado por Tecnologia e em busca de me aprimorar em programação!
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-| <a href="https://github.com/Samuel-1210/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel-1210" /> </a> |<a href="https://github.com/Samuel-1210/convoychat"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-1210&layout=compact&langs_count=8&card_width=320" /></a> |
+
+| <a href="https://github.com/Samuel-1210/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel-1210&theme=dracula" /> </a> |<a href="https://github.com/Samuel-1210/convoychat"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-1210&theme=dracula&layout=compact&langs_count=8&card_width=320&hide=Portugol" /></a> |
 | ------------- | ------------- |
 
 <img heigth="20" widht="20" align="right" src="https://c.tenor.com/NG07YcciMC4AAAAC/izuku-midoriya-headbang.gif">
