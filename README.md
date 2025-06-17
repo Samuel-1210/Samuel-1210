@@ -6,10 +6,10 @@
 
 Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e focado em transformar desafios em soluções de software eficientes. Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias.
 
--  Backend: Construção de **APIs RESTful** robustas com **Node.js** e **NestJS**.
+- Backend: Construção de **APIs RESTful** robustas com **Node.js** e **NestJS**.
 - Segurança: Implementação de autenticação e autorização com **JWT (JSON Web Token)**.
 - Frontend: Desenvolvimento de interfaces dinâmicas e responsivas com **React** e **TypeScript**.
-- Bancos de Dados: Experiência com bancos de dados relacionais (**MySQL**) e NoSQL (**MongoDB**).
+- Bancos de Dados: Experiência com bancos relacionais e NoSQL, utilizando **TypeORM** com **MySQL** e **Mongoose** para modelagem de dados com **MongoDB**.
 
 ---
 
@@ -47,6 +47,9 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e focado em transf
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" alt="mongoose logo" />
+  <img width="12" />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
 </div>
 
