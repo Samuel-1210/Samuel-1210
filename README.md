@@ -8,7 +8,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e focado em transf
 
 - Backend: Construção de **APIs RESTful** robustas com **Node.js** e **NestJS**.
 - Segurança: Implementação de autenticação e autorização com **JWT (JSON Web Token)**.
-- Frontend: Desenvolvimento de interfaces dinâmicas e responsivas com **React** e **TypeScript**.
+- Frontend: Desenvolvimento de interfaces dinâmicas e responsivas com **React**, **Nextjs** e **TypeScript**.
 - Bancos de Dados: Experiência com bancos relacionais e NoSQL, utilizando **TypeORM** com **MySQL** e **Mongoose** para modelagem de dados com **MongoDB**.
 
 ---
@@ -30,6 +30,8 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e focado em transf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />   
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
